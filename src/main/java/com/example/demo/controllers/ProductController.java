@@ -26,5 +26,5 @@ public class ProductController {
 
         return "products";
     }
-
+//create a method
 }
