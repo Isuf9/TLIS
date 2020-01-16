@@ -27,5 +27,7 @@ public class ProductController {
         return "products";
     }
 //create a method
-    //
+    public void addRRuga(){
+        System.out.println("Rruga u shtu");
+    }
 }
